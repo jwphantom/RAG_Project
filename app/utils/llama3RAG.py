@@ -18,7 +18,7 @@ def setup_embedding_and_llm():
     groq_api_key = os.getenv("GROQ_API_KEY")
     llm = ChatGroq(
         groq_api_key=groq_api_key,
-        model_name="llama3-70b-8192",
+        model_name="mixtral-8x7b-32768",
         temperature=0.2,
     )
     embedding = GPT4AllEmbeddings(model_name="all-MiniLM-L6-v2.gguf2.f16.gguf")
