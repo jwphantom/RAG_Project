@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from app.api import chat
+from app.api import chat, evaluation
 
 from fastapi.middleware.cors import CORSMiddleware
 
@@ -17,6 +17,7 @@ origins = [
 app = FastAPI()
 
 app.include_router(chat.router, prefix="/api/chat", tags=["chat"])
+app.include_router(evaluation.router, prefix="/api/evaluation", tags=["evaluation"])
 
 
 app.add_middleware(

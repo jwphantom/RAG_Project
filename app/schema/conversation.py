@@ -2,6 +2,7 @@
 from pydantic import BaseModel
 
 
-class Question(BaseModel):
+class Conversation(BaseModel):
     prompt: str
     user: str
+    response: str

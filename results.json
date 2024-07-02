@@ -1,0 +1,476 @@
+{
+    "Procédure d'admission et d'inscription": [
+        {
+            "prompt": "Après la demande d’admission, quelle est la procédure à suivre?",
+            "answer_correct": "Après la demande d’admission vous êtes contacté par notre service de la scolarité afin de vous expliquer en quoi consiste la filière que vous avez choisi et ses débouchés ; ensuite vous transmettre les modalités du concours et répondre à vos préoccupations.",
+            "answer_generated": "Après la demande d’admission vous êtes contacté par notre service de la scolarité afin de vous expliquer en quoi consiste la filière que vous avez choisi et ses débouchés ; ensuite vous transmettre les modalités du concours et répondre à vos préoccupations.",
+            "ttr": 0.8444444444444444,
+            "cosine_similarity": 1.0000000000000002,
+            "entropy": 0.01332274918060312,
+            "perplexity": 1.0134118924413307,
+            "generation_time": 14.08306884765625
+        },
+        {
+            "prompt": "Quels informations faut-il soumettre pour faire sa demande d’admission?",
+            "answer_correct": "Tout d’abord commencez par remplir le formulaire d’admission en ligne si ce n’est pas déjà fait, ensuite, attendre que l’on vous contacte pour vous donner la composition du dossier suivant votre profil.",
+            "answer_generated": "Tout d’abord commencez par remplir le formulaire d’admission en ligne si ce n’est pas déjà fait, ensuite, attendre que l’on vous contacte pour vous donner la composition du dossier suivant votre profil.",
+            "ttr": 0.8604651162790697,
+            "cosine_similarity": 1.0,
+            "entropy": 0.0072322119848230604,
+            "perplexity": 1.0072584275907521,
+            "generation_time": 13.438677072525024
+        },
+        {
+            "prompt": "Quels sont les modalités d’inscription au concours?",
+            "answer_correct": "Tout d’abord commencez par remplir le formulaire d’admission en ligne si ce n’est pas déjà fait, ensuite, attendre que l’on vous contacte pour vous donner la composition du dossier suivant votre profil, et enfin, vous vous acquitterez d’un montant de 25.000Fcfa relatif au frais de concours à la BICEC(Banque Internationale du Cameroun pour L’Epargne et le crédit, compte n°61892960001-23 intitulé du compte «Direct Management RH» (code d’agence 06860).",
+            "answer_generated": "Tout d’abord commencez par remplir le formulaire d’admission en ligne si ce n’est pas déjà fait, ensuite, attendre que l’on vous contacte pour vous donner la composition du dossier suivant votre profil, et enfin, vous vous acquitterez d’un montant de 25.000Fcfa relatif au frais de concours à la BICEC (Banque Internationale du Cameroun pour L’Epargne et le crédit, compte n°61892960001-23 intitulé du compte «Direct Management RH» (code d’agence 06860).",
+            "ttr": 0.723404255319149,
+            "cosine_similarity": 1.0,
+            "entropy": 0.016047334939258695,
+            "perplexity": 1.0161767849340826,
+            "generation_time": 18.317737102508545
+        },
+        {
+            "prompt": "Quels sont les conditions d’admissions dans votre école?",
+            "answer_correct": "Tout d’abord remplir la demande d’admission ensuite vous serez contacté par notre service de la scolarité afin de vous transmettre les modalités du concours suivant votre profil.",
+            "answer_generated": "Pour postuler, vous devez remplir la demande d'admission. Ensuite, notre service de la scolarité vous contactera pour vous transmettre les modalités du concours en fonction de votre profil.",
+            "ttr": 0.78125,
+            "cosine_similarity": 0.9229691705087505,
+            "entropy": 0.11129267550835958,
+            "perplexity": 1.1177219888389684,
+            "generation_time": 15.16808032989502
+        },
+        {
+            "prompt": "Comment entrer dans cette école?",
+            "answer_correct": "Intégration par concours.",
+            "answer_generated": "Intégration par concours.",
+            "ttr": 1.0,
+            "cosine_similarity": 1.0,
+            "entropy": 0.0028515381751000003,
+            "perplexity": 1.0028556076772763,
+            "generation_time": 10.459597110748291
+        },
+        {
+            "prompt": "Est-il possible de postuler?",
+            "answer_correct": "Pour postuler voici le Lien : http://www.irdsm-aviation.com/admission.",
+            "answer_generated": "Pour postuler voici le Lien : http://www.irdsm-aviation.com/admission.",
+            "ttr": 0.9,
+            "cosine_similarity": 1.0000000000000002,
+            "entropy": 0.029750993248638627,
+            "perplexity": 1.030197975761278,
+            "generation_time": 10.247960090637207
+        },
+        {
+            "category_perplexity": 1.0312704462072815
+        }
+    ],
+    "Informations sur le concours": [
+        {
+            "prompt": "Que faut-il étudier pour mieux préparer le concours?",
+            "answer_correct": "Tout d’abord il est à noter que cela dépendra de la formation que vous souhaiterez faire dans notre structure. Mais de manière générale, les épreuves du concours sont composées d’un test de langue, d’un test psychotechnique et de la culture générale.",
+            "answer_generated": "Les épreuves du concours sont composées d’un test de langue, d’un test psychotechnique et de la culture générale.",
+            "ttr": 0.7916666666666666,
+            "cosine_similarity": 0.8203697973175444,
+            "entropy": 0.023079747683798328,
+            "perplexity": 1.0233481459375717,
+            "generation_time": 10.503403902053833
+        },
+        {
+            "prompt": "Y’a-t-il un autre centre d’examen pour le concours?",
+            "answer_correct": "Nos centres : Yaoundé, quartier Mballa II, rue hôpital Jamot 1ère entrée à droite, et Douala Feu Rouge Bessengue, immeuble AZZICUL 3e étage",
+            "answer_generated": "Nos centres : Yaoundé, quartier Mballa II, rue hôpital Jamot 1ère entrée à droite, et Douala Feu Rouge Bessengue, immeuble AZZICUL 3e étage.",
+            "ttr": 0.8928571428571429,
+            "cosine_similarity": 0.9894648756166136,
+            "entropy": 0.001972877405630185,
+            "perplexity": 1.001974824808711,
+            "generation_time": 12.372637033462524
+        },
+        {
+            "prompt": "Est-il possible de réserver les places pour le concours?",
+            "answer_correct": "Pour réserver les places pour le concours vous devez vous acquitter des frais de concours et déposer votre dossier de candidature.",
+            "answer_generated": "Pour réserver les places pour le concours, vous devez vous acquitter des frais de concours et déposer votre dossier de candidature.",
+            "ttr": 0.8260869565217391,
+            "cosine_similarity": 0.9982701745092755,
+            "entropy": 0.011971001573070001,
+            "perplexity": 1.0120429407872873,
+            "generation_time": 10.635369062423706
+        },
+        {
+            "prompt": "Quel est le centre d’examen du concours?",
+            "answer_correct": "Nos centres : Yaoundé, quartier Mballa II, rue hôpital Jamot 1ère entrée à droite, et Douala Feu Rouge Bessengue, immeuble AZZICUL 3e étage.",
+            "answer_generated": "Nos centres : Yaoundé, quartier Mballa II, rue hôpital Jamot 1ère entrée à droite, et Douala Feu Rouge Bessengue, immeuble AZZICUL 3e étage.",
+            "ttr": 0.8928571428571429,
+            "cosine_similarity": 1.0,
+            "entropy": 0.0006004388648837041,
+            "perplexity": 1.0006006191643835,
+            "generation_time": 13.650458097457886
+        },
+        {
+            "prompt": "Quels sont les matières à étudier pour la préparation du concours?",
+            "answer_correct": "Tout d’abord il est à noter que cela dépendra de la formation que vous souhaiterez faire dans notre structure. Mais de manière générale, les épreuves du concours sont composées d’un test de langue, d’un test psychotechnique et de la culture générale.",
+            "answer_generated": "Les épreuves du concours sont composées d'un test de langue, d'un test psychotechnique et de la culture générale.",
+            "ttr": 0.85,
+            "cosine_similarity": 0.836984843820696,
+            "entropy": 0.02215039674005333,
+            "perplexity": 1.0223975381648998,
+            "generation_time": 11.389511108398438
+        },
+        {
+            "prompt": "Quels sont les documents à fournir pour le concours?",
+            "answer_correct": "Une lettre de motivation adressée au Directeur Général de l’Office Direct Management RH;\nUne photocopie du diplôme requis\nUne photocopie de l’acte de naissance;\nUne photocopie de CNI ou de Récépissé en cours de validité ou de la carte de séjour pour les étrangers;\n2 cartes photo 4X4 (en couleur)\nUn CV\nUne enveloppe A4 et une chemise cartonnée avec adresse complète du candidat\nReçu de versement de la somme de 25.000(Vingt-cinq mille) francs CFA à BICEC (Banque Internationale du Cameroun pour L’Epargne et le crédit, compte n°61892960001-23 intitulé du compte «Direct Management RH» (code d’agence 06860).",
+            "answer_generated": "- Une lettre de motivation adressée au Directeur Général de l’Office Direct Management RH; \n- Une photocopie du diplôme requis \n- Une photocopie de l’acte de naissance; \n- Une photocopie de CNI ou de Récépissé en cours de validité ou de la carte de séjour pour les étrangers; \n- 2 cartes photo 4X4 (en couleur) \n- Un CV \n- Une enveloppe A4 et une chemise cartonnée avec adresse complète du candidat \n- Une enveloppe A4 et une chemise cartonnée avec adresse complète du candidat \n- Reçu de versement de la somme de 25.000(Vingt-cinq mille) francs CFA à BICEC (Banque Internationale du Cameroun pour",
+            "ttr": 0.5603448275862069,
+            "cosine_similarity": 0.9194475558441663,
+            "entropy": 0.00933763262146694,
+            "perplexity": 1.0093813643238272,
+            "generation_time": 13.337782144546509
+        },
+        {
+            "prompt": "Est-il possible d’avoir le programme des épreuves à la veille du concours?",
+            "answer_correct": "Le programme du concours est généralement donné lors de votre premier passage à l’établissement.",
+            "answer_generated": "Le programme du concours est généralement donné lors de votre premier passage à l’établissement.",
+            "ttr": 1.0,
+            "cosine_similarity": 1.0,
+            "entropy": 0.0036354012929227272,
+            "perplexity": 1.0036420173791496,
+            "generation_time": 10.445605039596558
+        },
+        {
+            "prompt": "Est-il possible d’avoir un examen de rattrapage?",
+            "answer_correct": "Uniquement dans le cas où vous avez eu une urgence justifiée, vous empêchant de composer.",
+            "answer_generated": "Uniquement dans le cas où vous avez eu une urgence justifiée, vous empêchant de composer.",
+            "ttr": 0.9411764705882353,
+            "cosine_similarity": 1.0,
+            "entropy": 0.0005252012708143477,
+            "perplexity": 1.00052533921315,
+            "generation_time": 10.111469984054565
+        },
+        {
+            "prompt": "Puis-je avoir plus d’informations sur le concours ?",
+            "answer_correct": "Tout d’abord commencez par remplir le formulaire d’admission en ligne si ce n’est pas déjà fait, ensuite, attendre que l’on vous contacte pour vous donner les information sur la filière choisie et la composition du dossier suivant votre profil.",
+            "answer_generated": "Je suis désolé mais cela va au-delà de mes capacités.",
+            "ttr": 1.0,
+            "cosine_similarity": 0.2927663786278586,
+            "entropy": 0.047348470035355,
+            "perplexity": 1.048487311838052,
+            "generation_time": 12.542500972747803
+        },
+        {
+            "prompt": "Les résultats du concours sont-ils disponibles?",
+            "answer_correct": "Pour cette information, écrivez-nous sur WhatsApp au 655 81 94 08.",
+            "answer_generated": "Pour cette information, écrivez-nous sur WhatsApp au 655 81 94 08.",
+            "ttr": 1.0,
+            "cosine_similarity": 1.0000000000000002,
+            "entropy": 0.0003920555303704546,
+            "perplexity": 1.0003921323941845,
+            "generation_time": 10.86234998703003
+        },
+        {
+            "prompt": "Est-il possible d’avoir la liste des résultats?",
+            "answer_correct": "Pour cette information, écrivez-nous sur WhatsApp au 655 81 94 08.",
+            "answer_generated": "Je suis désolé mais cela va au-delà de mes capacités.",
+            "ttr": 1.0,
+            "cosine_similarity": 0.44203864533928044,
+            "entropy": 0.0033100255720268754,
+            "perplexity": 1.0033155097559308,
+            "generation_time": 15.694266080856323
+        },
+        {
+            "prompt": "Quelle est la date de la remise des lettres d’admission?",
+            "answer_correct": "Pour cette information, écrivez-nous sur WhatsApp au 655 81 94 08.",
+            "answer_generated": "Pour cette information, écrivez-nous sur WhatsApp au 655 81 94 08.",
+            "ttr": 1.0,
+            "cosine_similarity": 1.0000000000000002,
+            "entropy": 0.016358761029174086,
+            "perplexity": 1.0164932981795607,
+            "generation_time": 22.350666046142578
+        },
+        {
+            "prompt": "Quand sera lancé la prochaine date du concours?",
+            "answer_correct": "Pour cette information, écrivez-nous sur WhatsApp au 655 81 94 08.",
+            "answer_generated": "Pour cette information, écrivez-nous sur WhatsApp au 655 81 94 08.",
+            "ttr": 1.0,
+            "cosine_similarity": 1.0000000000000002,
+            "entropy": 0.00024029576645909093,
+            "perplexity": 1.0002403246397995,
+            "generation_time": 11.70907187461853
+        },
+        {
+            "category_perplexity": 1.0109877974297314
+        }
+    ],
+    "Conditions et exigences": [
+        {
+            "prompt": "Quel est l’âge requis pour vos formations?",
+            "answer_correct": "18 ans révolus.",
+            "answer_generated": "L'âge requis pour nos formations est de 18 ans révolus.",
+            "ttr": 1.0,
+            "cosine_similarity": 0.5436101548504095,
+            "entropy": 0.03176094132897647,
+            "perplexity": 1.0322707025438371,
+            "generation_time": 23.75202178955078
+        },
+        {
+            "prompt": "Quel est le niveau scolaire requis pour ce concours?",
+            "answer_correct": "Cela dépend de la formation choisie.",
+            "answer_generated": "Cela dépend de la formation choisie.",
+            "ttr": 1.0,
+            "cosine_similarity": 1.0,
+            "entropy": 0.00012879127174900005,
+            "perplexity": 1.0001287995657009,
+            "generation_time": 13.053145170211792
+        },
+        {
+            "prompt": "Quels sont les diplômes requis pour cette formation?",
+            "answer_correct": "Le diplôme requis varie selon la formation. Quel formation vous intéresse ?",
+            "answer_generated": "Le diplôme requis varie selon la formation. Quelle formation vous intéresse ?",
+            "ttr": 0.9230769230769231,
+            "cosine_similarity": 0.995860846505464,
+            "entropy": 0.03298061878388235,
+            "perplexity": 1.0335305079690518,
+            "generation_time": 12.57148814201355
+        },
+        {
+            "prompt": "Quel est l’âge limite de cette formation?",
+            "answer_correct": "Cela dépend de la formation choisie.",
+            "answer_generated": "Cela dépend de la formation choisie.",
+            "ttr": 1.0,
+            "cosine_similarity": 1.0,
+            "entropy": 0.004000732428198001,
+            "perplexity": 1.0040087460413891,
+            "generation_time": 14.129333019256592
+        },
+        {
+            "prompt": "Y’a-t-il une taille minimal et un âge limite pour passer le concours d’hôtesse de l’air ?",
+            "answer_correct": "Taille : 1m70 ; âge limite : 45 ans.",
+            "answer_generated": "Taille : 1m70 ; âge limite : 45 ans.",
+            "ttr": 0.9,
+            "cosine_similarity": 1.0,
+            "entropy": 0.0072555756770718745,
+            "perplexity": 1.0072819611415837,
+            "generation_time": 14.038347959518433
+        },
+        {
+            "category_perplexity": 1.0154441434523125
+        }
+    ],
+    "Coûts et frais": [
+        {
+            "prompt": "À combien s’élève les frais de concours?",
+            "answer_correct": "Les frais de concours s’élèvent à 25.000Fcfa payable à la BICEC.",
+            "answer_generated": "Les frais de concours s’élèvent à 25.000Fcfa payable à la BICEC.",
+            "ttr": 0.9285714285714286,
+            "cosine_similarity": 1.0000000000000002,
+            "entropy": 0.017479610145386668,
+            "perplexity": 1.017633272544745,
+            "generation_time": 11.41124701499939
+        },
+        {
+            "prompt": "Quels sont les frais de concours?",
+            "answer_correct": "Les frais de concours s’élèvent à 25.000Fcfa payable à la BICEC.",
+            "answer_generated": "Les frais de concours s’élèvent à 25.000Fcfa payable à la BICEC.",
+            "ttr": 0.9285714285714286,
+            "cosine_similarity": 1.0000000000000002,
+            "entropy": 0.006030706295542918,
+            "perplexity": 1.0060489276154818,
+            "generation_time": 14.451112031936646
+        },
+        {
+            "prompt": "Quel est le coût de cette formation?",
+            "answer_correct": "Nous avons plusieurs formations, le prix des formations varie en fonction de la spécialité choisie et le plus difficile est d’être admissible. Une fois le cas, vous discuterez amplement de ses informations avec l’administration. Mais si vous avez réellement besoin du montant brute sans bourse, vous pouvez contacter notre service à la scolarité au 655 81 94 08.",
+            "answer_generated": "Le coût de cette formation varie en fonction de la spécialité choisie et le plus difficile est d’être admissible. Une fois le cas, vous discuterez amplement de ses informations avec l’administration. Mais si vous avez réellement besoin du montant brute sans bourse, vous pouvez contacter notre service à la scolarité au 655 81 94 08.",
+            "ttr": 0.828125,
+            "cosine_similarity": 0.8959086327636696,
+            "entropy": 0.03989925250916951,
+            "perplexity": 1.0407059204004259,
+            "generation_time": 13.053429126739502
+        },
+        {
+            "prompt": "Quel est le coût de cette école ?",
+            "answer_correct": "Nous avons plusieurs formations, le prix des formations varie en fonction de la spécialité choisie et le plus difficile est d’être admissible. Une fois le cas, vous discuterez amplement de ses informations avec l’administration. Mais si vous avez réellement besoin du montant brute sans bourse, vous pouvez contacter notre service à la scolarité au 655 81 94 08.",
+            "answer_generated": "Je suis désolé mais cela va au-delà de mes capacités.",
+            "ttr": 1.0,
+            "cosine_similarity": 0.336526245965473,
+            "entropy": 0.001037005824403125,
+            "perplexity": 1.001037543700854,
+            "generation_time": 12.0169038772583
+        },
+        {
+            "category_perplexity": 1.0163564160653769
+        }
+    ],
+    "Formation et débouchés": [
+        {
+            "prompt": "Combien de temps dure la formation?",
+            "answer_correct": "La durée varie selon la formation. Quel formation vous intéresse ?",
+            "answer_generated": "La durée varie selon la formation. Quelle formation vous intéresse ?",
+            "ttr": 0.8333333333333334,
+            "cosine_similarity": 0.993515317488823,
+            "entropy": 0.03493450454535625,
+            "perplexity": 1.0355518826371344,
+            "generation_time": 13.333465099334717
+        },
+        {
+            "prompt": "Quelles sont les différentes formations disponibles?",
+            "answer_correct": "Nous avons plusieurs formations. Laquelle vous intéresse ? Vous pourrez aussi avoir une vue d’ensemble de nos formations sur notre site web au www.irdsm-aviation.com/formation.",
+            "answer_generated": "Nous avons plusieurs formations. Laquelle vous intéresse ? Vous pourrez aussi avoir une vue d’ensemble de nos formations sur notre site web au www.irdsm-aviation.com/formation.",
+            "ttr": 0.8928571428571429,
+            "cosine_similarity": 1.0,
+            "entropy": 0.006391866460527499,
+            "perplexity": 1.0064123380328949,
+            "generation_time": 12.39562702178955
+        },
+        {
+            "prompt": "Plus d’informations à propos de vos formations?",
+            "answer_correct": "Nous avons plusieurs formations. Laquelle vous intéresse ? Vous pourrez aussi avoir une vue d’ensemble de nos formations sur notre site web au www.irdsm-aviation.com/formation.",
+            "answer_generated": "Je suis désolé mais cela va au-delà de mes capacités.",
+            "ttr": 1.0,
+            "cosine_similarity": 0.21939812079781051,
+            "entropy": 0.0022584212228518754,
+            "perplexity": 1.0022609733769798,
+            "generation_time": 12.075939893722534
+        },{
+            "prompt": "Cette formation ouvre-t-elle à des débouchés? Si oui lesquels?",
+            "answer_correct": "Nous avons plusieurs formations, quelles formation en particulier ?",
+            "answer_generated": "La formation pour devenir hôtesse de l'air ou steward (personnel navigant commercial - PNC) est conçue pour préparer les étudiants à assurer la sécurité et le confort des passagers à bord des avions. Les débouchés de cette formation incluent travailler pour des compagnies aériennes nationales ou internationales, assurer le service à bord des avions privés pour des entreprises ou des particuliers, travailler sur des vols de transport de marchandises nécessitant un personnel de cabine, et enseigner les procédures de sécurité et de service à de nouveaux membres du personnel navigant.",
+            "ttr": 0.5876288659793815,
+            "cosine_similarity": 0.28457413890002,
+            "entropy": 0.01983839709389163,
+            "perplexity": 1.0200364858462079,
+            "generation_time": 15.693924188613892
+        },
+        {
+            "prompt": "La formation chez vous permet-elle une insertion professionnelle directement après la période de formation?",
+            "answer_correct": "Oui, mais il est à noter que, votre insertion dépend de la formation choisie. Par exemple : si vous faites pilote de ligne, maintenance aéronautique, vous avez 1 an au pays et 2 ans à l’étranger ; du coup, si vous valider très bien votre formation, vous avez des ouvertures directes pour l’étranger. Si vous faites hôtesse de l’air/ stewards, passage vente/sol, vous pouvez bénéficier d’un stage chez nos partenaires comme CamairCo ou Satguru et la suite dépendra de vos performances au stage.",
+            "answer_generated": "Oui, mais il est à noter que, votre insertion dépend de la formation choisie. Par exemple : si vous faites pilote de ligne, maintenance aéronautique, vous avez 1 an au pays et 2 ans à l’étranger ; du coup, si vous valider très bien votre formation, vous avez des ouvertures directes pour l’étranger. Si vous faites hôtesse de l’air/ stewards, passage vente/sol, vous pouvez bénéficier d’un stage chez nos partenaires comme CamairCo ou Satguru et la suite dépendra de vos performances au stage.",
+            "ttr": 0.6666666666666666,
+            "cosine_similarity": 1.0000000000000002,
+            "entropy": 0.00500002724451433,
+            "perplexity": 1.0050125482404795,
+            "generation_time": 12.882569074630737
+        },
+        {
+            "prompt": "Faites-vous dans le placement du personnel?",
+            "answer_correct": "Nous avons une structure indépendante chargée du placement de nos finissant, et tout dépend des performances et compétences du candidat à la fin de la formation.",
+            "answer_generated": "Oui, nous avons une structure indépendante chargée du placement de nos finissants, et tout dépend des performances et compétences du candidat à la fin de la formation.",
+            "ttr": 0.8333333333333334,
+            "cosine_similarity": 0.9907143055327668,
+            "entropy": 0.012102224228288,
+            "perplexity": 1.0121757524629318,
+            "generation_time": 11.484049081802368
+        },
+        {
+            "prompt": "Quels sont les débouchés pour la formation en licence de pilote de ligne?",
+            "answer_correct": "Devenir pilote de ligne pour des compagnies aériennes commerciales.",
+            "answer_generated": "La formation en licence de pilote de ligne ouvre des débouchés professionnels dans l'aviation commerciale.",
+            "ttr": 0.9375,
+            "cosine_similarity": 0.6696961717347419,
+            "entropy": 0.11074036767595885,
+            "perplexity": 1.117104832675866,
+            "generation_time": 11.677582025527954
+        },
+        {
+            "prompt": "Quels sont les débouchés pour la formation en hôtellerie, catering et restauration?",
+            "answer_correct": "Gère les services de restauration à bord des avions.\nSupervise les services de restauration et le personnel de cabine.\nPlanifie et organise la logistique alimentaire pour les vols.\nGère les opérations d'un restaurant situé dans un aéroport.\nConseille les compagnies aériennes et les hôtels sur l'amélioration des services de restauration et d'accueil.\nEnseigne les pratiques de catering et d'accueil aux nouveaux employés.",
+            "answer_generated": "Les débouchés pour la formation en hôtellerie, catering et restauration sont les suivants : \n- Gère les services de restauration à bord des avions. \n- Supervise les services de restauration et le personnel de cabine. \n- Planifie et organise la logistique alimentaire pour les vols. \n- Gère les opérations d'un restaurant situé dans un aéroport. \n- Conseille les compagnies aériennes et les hôtels sur l'amélioration des services de restauration et d'accueil. \n- Enseigne les pratiques de catering et d'accueil aux nouveaux employés.",
+            "ttr": 0.5730337078651685,
+            "cosine_similarity": 0.9425490405958389,
+            "entropy": 0.020441334141227615,
+            "perplexity": 1.0206516890789321,
+            "generation_time": 12.58329176902771
+        },
+        {
+            "prompt": "Quels sont les débouchés pour la formation en gestion des flottes aériennes?",
+            "answer_correct": "Supervise l'acquisition, l'entretien et l'optimisation des avions pour une compagnie aérienne.\nÉlabore des stratégies de planification et de déploiement des avions pour maximiser l'efficacité et la rentabilité.\nCoordonne les programmes de maintenance pour assurer la sécurité et la conformité réglementaire.\nAnalyse les performances de la flotte et propose des améliorations pour optimiser les opérations.\nConseille les compagnies aériennes sur les meilleures pratiques de gestion des flottes et l'optimisation des coûts.\nEnseigne les compétences et les procédures de gestion des flottes aux nouveaux professionnels.",
+            "answer_generated": "Les débouchés pour la formation en gestion des flottes aériennes incluent la supervision de l'acquisition, de l'entretien et de l'optimisation des avions pour une compagnie aérienne, l'élaboration de stratégies de planification et de déploiement des avions pour maximiser l'efficacité et la rentabilité, la coordination des programmes de maintenance pour assurer la sécurité et la conformité réglementaire, l'analyse des performances de la flotte et la proposition d'améliorations pour optimiser les opérations, le conseil aux compagnies aériennes sur les meilleures pratiques de gestion des flottes et l'optimisation des coûts, ainsi que l'enseignement des compétences et des procédures de gestion des flottes aux nouveaux professionnels.",
+            "ttr": 0.5412844036697247,
+            "cosine_similarity": 0.9531769643805115,
+            "entropy": 0.013367056255552229,
+            "perplexity": 1.013456794752741,
+            "generation_time": 13.528431177139282
+        },
+        {
+            "prompt": "Quels sont les débouchés pour la formation en informatique des systèmes de contrôle?",
+            "answer_correct": "Développe et maintient les systèmes informatiques de contrôle des aéroports.\nProtège les systèmes de contrôle contre les cybermenaces.\nAssure le bon fonctionnement des systèmes informatiques dans les aéroports.\nSupervise les projets de développement et de mise en place de nouveaux systèmes de contrôle.\nEnseigne l'utilisation et la maintenance des systèmes informatiques de contrôle.",
+            "answer_generated": "- Développe et maintient les systèmes informatiques de contrôle des aéroports.\n- Protège les systèmes de contrôle contre les cybermenaces.\n- Assure le bon fonctionnement des systèmes informatiques dans les aéroports.\n- Supervise les projets de développement et de mise en place de nouveaux systèmes de contrôle.\n- Enseigne l'utilisation et la maintenance des systèmes informatiques de contrôle.",
+            "ttr": 0.49206349206349204,
+            "cosine_similarity": 0.9921933164051994,
+            "entropy": 0.01274002011820468,
+            "perplexity": 1.012821519909747,
+            "generation_time": 12.704321146011353
+        },
+        {
+            "category_perplexity": 1.028751374709558
+        }
+    ],
+    "Informations générales et contacts": [
+        {
+            "prompt": "Où se trouve l'entreprise?",
+            "answer_correct": "Cameroun, Yaoundé, Mballa2, Entrée Jamot, 1ère entrée à droite, Deuxième résidence.",
+            "answer_generated": "Je suis désolé mais cela va au-delà de mes capacités.",
+            "ttr": 1.0,
+            "cosine_similarity": 0.24627309223610475,
+            "entropy": 0.00011620895545500003,
+            "perplexity": 1.0001162157079773,
+            "generation_time": 11.187530994415283
+        },
+        {
+            "prompt": "Quels sont les moyens de contact de l'entreprise?",
+            "answer_correct": "Contact / Whatsapp: (+237) 655 819 408, (+237) 690 362 956, Email: campus@irdsm-aviation, Facebook : facebook.com/irdsm.aviation.",
+            "answer_generated": "Je suis désolé mais cela va au-delà de mes capacités.",
+            "ttr": 1.0,
+            "cosine_similarity": 0.048507065282681124,
+            "entropy": 0.000167697766409375,
+            "perplexity": 1.0001677118284658,
+            "generation_time": 11.07535696029663
+        },
+        {
+            "prompt": "Quels sont les horaires de travail de l'entreprise?",
+            "answer_correct": "Lundi - Vendredi: 08:00 - 16:00, Samedi: 09:00 - 13:00.",
+            "answer_generated": "Je suis désolé mais cela va au-delà de mes capacités.",
+            "ttr": 1.0,
+            "cosine_similarity": 0.09574105277213948,
+            "entropy": 0.00029239524385125005,
+            "perplexity": 1.0002924379955072,
+            "generation_time": 10.407015800476074
+        },
+        {
+            "prompt": "J’aimerai savoir à quel niveau du feu rouge Bessengue vous êtes situé?",
+            "answer_correct": "Immeuble AZZICUL 3e étage situé à quelques mètre de l’immeuble de la MUPECI.",
+            "answer_generated": "Je suis situé à l'immeuble AZZICUL, 3e étage, à quelques mètres de l'immeuble de la MUPECI.",
+            "ttr": 0.7894736842105263,
+            "cosine_similarity": 0.9046702031048718,
+            "entropy": 0.04353137359332286,
+            "perplexity": 1.0444927632891674,
+            "generation_time": 13.51292109489441
+        },
+        {
+            "category_perplexity": 1.0112672822052793
+        }
+    ],
+    "Politiques et partenariats": [
+        {
+            "prompt": "Avec quelles institutions IRDSM-Aviation a-t-elle des accords de partenariat?",
+            "answer_correct": "Aero pyrénées, Horizons Academy, Samara university, IATA, Camair-co, KeEPA.",
+            "answer_generated": "Je suis désolé mais cela va au-delà de mes capacités.",
+            "ttr": 1.0,
+            "cosine_similarity": 0.08461887341897702,
+            "entropy": 0.01201324231474875,
+            "perplexity": 1.0120856911346137,
+            "generation_time": 12.220463037490845
+        },
+        {
+            "prompt": "Quelle est la politique qualité de IRDSM-Aviation?",
+            "answer_correct": "Depuis Octobre 2017, IRDSM-AVIATION à été agréer par la CCAAA dans le domaine de la formation aux métiers de l’aviation civile. L'institut se base sur des personnes et organisations spécialisées dans le domaine pour respecter les normes éthiques et le savoir-faire. La mise en place d’un Système de Management de la Qualité vise à écouter les clients et partenaires, satisfaire les stagiaires, offrir des services de qualité, identifier les dysfonctionnements, répondre aux besoins des partenaires, et se positionner en leader dans la formation aux Métiers de l’aviation civile au Cameroun et en Afrique.",
+            "answer_generated": "L'état d'esprit Qualité est partie intégrante de la culture service à IRDSM-AVIATION.",
+            "ttr": 1.0,
+            "cosine_similarity": 0.6702026196008412,
+            "entropy": 0.04288372088370961,
+            "perplexity": 1.0438165137319186,
+            "generation_time": 12.031673908233643
+        },
+        {
+            "category_perplexity": 1.0279511024332662
+        }
+    ]
+}
