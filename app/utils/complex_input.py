@@ -1,7 +1,6 @@
 from langchain_community.vectorstores import Chroma
 from app.utils.llama3RAG import (
     create_retriever,
-    format_query,
     load_and_split_document,
     setup_embedding_and_llm,
     create_hybrid_retriever,
@@ -45,7 +44,9 @@ def generate_prompt(input, pdf_path, user, history):
         </ctx>
         ------
         <hs>
-        {history}
+        User : Merci.
+        Bot: La formation en licence de pilote de ligne est conçue pour préparer les étudiants à une carrière professionnelle dans l'aviation commerciale. Ce programme combine des cours théoriques approfondis avec une formation pratique intensive en vol. Les étudiants apprendront les principes de l'aérodynamique, la navigation aérienne, les systèmes d'avion, la météorologie, et les réglementations aériennes. La formation inclut également des heures de vol sous la supervision d'instructeurs qualifiés, permettant aux étudiants d'acquérir les compétences nécessaires pour piloter différents types d'aéronefs.
+        User : Bonjour monsieur, Je voudrais les informations sur votre formation de pilote de ligne
         </hs>
         ------
         {question}

@@ -81,4 +81,4 @@ async def chat(question: SchemaQuestion):
     # )
     # save_conversation(conversation)
 
-    return response
+    return response.content

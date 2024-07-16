@@ -8,3 +8,7 @@ app/utils/__pycache__/
 app/__pycache__/
 .vercel
 .env
+user_conversation/
+data.json
+result.json
+output.csv
